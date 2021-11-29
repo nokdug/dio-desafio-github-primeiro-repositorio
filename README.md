@@ -15,7 +15,7 @@ Repositório criado para o Desafio de Projeto do Tech Lead [Venilton FalvoJr](ht
 - [x] <s>Aprenda o que são Estrutura de Dados e Algoritmos</s>s>
 
 - [x] <s>Introdução ao Git e ao GitHub</s>
-- [ ] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+- [x] <s>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</s>
 - [ ] Mentoria #2: Como ser o próximo contratado da Spread
 - [ ] Mentoria #3: Start coding - Java Essencials 1
 - [ ] Dominando IDEs Java
