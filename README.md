@@ -1,6 +1,6 @@
 # Desafio de Projeto sobre Git/Github da DIO
 
-Repositório criado para o Desafio de Projeto do Tech Lead [Venilton FalvoJr](https://linkedin.com/in/falvojr) 
+Repositório criado para o Desafio de Projeto sobre Git/Github do Tech Lead [Venilton FalvoJr](https://linkedin.com/in/falvojr) 
 
 ## Evolução do BootCamp Spread Java Developer
 
