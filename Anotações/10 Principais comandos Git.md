@@ -1,4 +1,4 @@
-## 10 Principais comandos Git
+## 10 Principais comandos Git ⭐
 
 ### Git init
 
