@@ -16,7 +16,7 @@ Repositório criado para o Desafio de Projeto sobre Git/Github do Tech Lead [Ven
 
 - [x] <s>Introdução ao Git e ao GitHub</s>
 - [x] <s>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</s>
-- [ ] Mentoria #2: Como ser o próximo contratado da Spread
+- [x] <s>Mentoria #2: Como ser o próximo contratado da Spread</s>
 - [ ] Mentoria #3: Start coding - Java Essencials 1
 - [ ] Dominando IDEs Java
 - [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
